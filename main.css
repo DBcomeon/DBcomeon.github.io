@@ -1,0 +1,20 @@
+body
+{
+	margin: 0;
+	background-color: #2F3336;
+	color: #efefef;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}
+
+h1.logo
+{
+	font-size: 46px;
+	text-align: center;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+	padding: 15px;
+	color: white;
+	
+	
+}
